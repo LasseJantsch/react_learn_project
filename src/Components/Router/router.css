@@ -1,0 +1,55 @@
+nav {
+    width: 96%;
+    padding: 2%;
+
+    background-color: #000;
+    
+    text-align: left;
+}
+
+nav a{
+    color: #fff;
+    text-decoration: underline;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+nav a:hover{
+    color: rgb(218, 218, 218);
+}
+
+.homeContainer {
+    margin: 50px;
+}
+
+table {
+    text-align: left;
+    color: rgb(73, 73, 73);
+    border-collapse: collapse;
+}
+
+td {
+    padding:0 5px;
+    border: solid 1px rgb(165, 165, 165);
+}
+
+.head {
+    color: #000;
+}
+
+.head th {
+    border: solid 2px;
+}
+
+tr .name {
+    width: 200px
+}
+
+tr .summary {
+    width: 500px;
+}
+
+tr .recources {
+    width: 500px;
+}
+
